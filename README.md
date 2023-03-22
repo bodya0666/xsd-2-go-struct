@@ -1,0 +1,1 @@
+# xsd-2-go-struct
